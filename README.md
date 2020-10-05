@@ -11,6 +11,7 @@ example for the backend usage is available in the resources folder, there's a La
 
 # todo
 - learn to make api endpoint
+- generate a longer unique code so it could be outputted as a QR code
 - some documentations
 - translate this thing to english
 
